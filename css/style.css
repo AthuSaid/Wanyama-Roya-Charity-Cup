@@ -7992,10 +7992,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #ffb400; }
+  color: #dc3545; }
   a:hover, a:focus {
     text-decoration: none;
-    color: #ffb400;
+    color: #dc3545;
     outline: none !important; }
 
 h1, h2, h3, h4, h5,
